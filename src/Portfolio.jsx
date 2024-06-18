@@ -47,7 +47,7 @@ function Portfolio() {
                 </div>
                 <div className="mx-10 space-x-9 space-y-3">
                   <button className="bg-color-green bg-blue-500 hover:bg-blue-700 text-white p-1 rounded">
-                    meri pyari video
+                    meri pyari video i am good
                   </button>
                   <button className="bg-color-green bg-green-500 hover:bg-green-700 text-white p-1 rounded">
                     Source Code
